@@ -1,49 +1,55 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: "Evan Craine, PhD"
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-highlight_name: true
+    - course: PhD in Crop and Soil Sciences
+      institution: Washington State University
+      year: 2022
+    - course: Bachelor of Arts (B.A.) in Organismal Biology and Ecology
+      institution: Colorado College
+      year: 2015
+    
+email: craine@landinstute.org
+highlight_name: no
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Plant Breeding and Genetics
+- Nutritional Quality and Food Functionality
+- Food Systems and Value Chains
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: The Land Institute
+  url: https://landinstitute.org/
+role: Postdoctoral Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:craine@landinstitute.org
+#- display:
+#    header: yes
+#  icon: twitter
+#  icon_pack: fab
+#  label: Find me on Twitter
+#  link: https://twitter.com/shilaan01
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=MM2xnpkAAAAJ&hl=en
+#- icon: osf
+#  icon_pack: ai
+#  link: https://osf.io/ug7xd/ 
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6252-8973
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/EvanCraine
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-superuser: true
-title: Nelson Bighetti
+  link: https://www.linkedin.com/in/evan-craine-24a4b0a6/
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://www.instagram.com/shilaan01/ 
+superuser: yes
+bio: My research interests include statistics, meta-science, and crowdsourced science
+greeting: alzahawi::shilaan()
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a postdoctoral research fellow in the Legumes Breeding Program at The Land Institute. My position is focused on nutrition, food Functionality, and food system integration for The Land Institute's perennial pulse crop candidate, Sainfoin. I am passionate about connecting farmers, stakeholders and the public to develop nutritious and flavorful varieties with a sense of place. I also enjoy facilitating tastings that engage people with regional agricultural products. To appreciate something you must understand it, and to understand something you must experience it. 

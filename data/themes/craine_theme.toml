@@ -1,0 +1,24 @@
+# Theme metadata
+name = "Rose"
+
+# Is theme light or dark?
+light = true
+
+# html color codes: https://htmlcolorcodes.com/
+# Primary
+# tint of #ffec8b; lightgoldenrod1 = "rgb(255,236,139)"; #fff5c5 RGB below
+primary = "rgb(255,245,197)" 
+
+
+# Menu
+menu_primary = "rgb(247, 247, 247)"
+menu_text = "#000"
+menu_text_active = "rgb(25, 25, 25)"
+menu_title = "#000"
+
+# Home sections
+home_section_odd = "#FFF"
+# tint of #8b9eff
+# complimentary to lightgoldenrod1 = "rgb(139,158,255)""
+# #b9c4ff Color Hex RGB below
+home_section_even = "rgb(139,158,255)"
