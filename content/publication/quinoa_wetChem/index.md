@@ -8,7 +8,7 @@ authors:
 - Kevin M. Murphy
 date: "2020-08-12T00:00:00Z"
 doi: "https://doi.org/10.3389/fnut.2020.00126"
-featured: false
+featured: yes
 image:
   caption: 'Image credit: Evan Craine'
   focal_point: ""
