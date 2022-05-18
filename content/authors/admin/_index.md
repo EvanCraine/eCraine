@@ -2,7 +2,7 @@
 title: "Evan Craine, PhD"
 education:
   courses:
-    - course: PhD in Crop and Soil Sciences
+    - course: Doctor of Philosophy (PhD) in Crop and Soil Sciences
       institution: Washington State University
       year: 2022
     - course: Bachelor of Arts (B.A.) in Organismal Biology and Ecology
@@ -52,4 +52,6 @@ bio: My research interests include statistics, meta-science, and crowdsourced sc
 greeting: alzahawi::shilaan()
 ---
 
-I am a postdoctoral research fellow in the Legumes Breeding Program at The Land Institute. My position is focused on nutrition, food Functionality, and food system integration for The Land Institute's perennial pulse crop candidate, Sainfoin. I am passionate about connecting farmers, stakeholders and the public to develop nutritious and flavorful varieties with a sense of place. I also enjoy facilitating tastings that engage people with regional agricultural products. To appreciate something you must understand it, and to understand something you must experience it. 
+I am a postdoctoral research fellow in the Legumes Breeding Program at The Land Institute. My position is focused on nutrition, food functionality, and food system integration for The Land Institute's perennial pulse crop candidate, Sainfoin. 
+
+I am passionate about connecting farmers, stakeholders and the public to develop nutritious and flavorful varieties with a sense of place. I also enjoy facilitating tastings that engage people with regional agricultural products. To appreciate something you must understand it, and to understand something you must experience it. 
