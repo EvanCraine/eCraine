@@ -1,21 +1,21 @@
 ---
 # An instance of the Pages widget.
+# A Recent and Upcoming Talks section created with the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-
-active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 90
+# This section displays recent talks from `content/publication/`.
+widget: "pages" # See https://sourcethemes.com/academic/docs/page-builder/
+headless: true # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
 page type: presentations
 
-title: Publications
-subtitle: ''
+title = "Publications"
+subtitle = ""
 
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "presentations"
 content:
   # Filter on criteria
   filters:
