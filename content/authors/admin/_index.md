@@ -48,8 +48,8 @@ social:
 #  icon_pack: fab
 #  link: https://www.instagram.com/shilaan01/ 
 superuser: yes
-bio: My research interests include statistics, meta-science, and crowdsourced science
-greeting: alzahawi::shilaan()
+bio: My research interests include plant breeding, crop integration, and adoption.
+# greeting: alzahawi::shilaan()
 ---
 
 I am a postdoctoral research fellow in the Legumes Breeding Program at The Land Institute. My position is focused on nutrition, food functionality, and food system integration for The Land Institute's perennial pulse crop candidate, Sainfoin. 
