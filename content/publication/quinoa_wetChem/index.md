@@ -30,7 +30,7 @@ publication_types:
 - "2"
 
 # Schedule page publish date (NOT article publication date).
-publishDate: "2022-05-18T00:00:00Z"
+publishDate: "2022-05-17T00:00:00Z"
 
 slides: 
 
