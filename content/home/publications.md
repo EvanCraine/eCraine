@@ -13,7 +13,7 @@ weight: 90
 
 page type: presentations
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
