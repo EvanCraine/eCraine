@@ -8,14 +8,14 @@ headless: true # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-page type: presentations
+page type: publication
 
 title = "Publications"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "presentations"
+  page_type = "publications"
 content:
   # Filter on criteria
   filters:
