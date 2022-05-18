@@ -48,7 +48,7 @@ social:
 #  icon_pack: fab
 #  link: https://www.instagram.com/shilaan01/ 
 superuser: yes
-bio: My research interests include plant breeding, crop integration, and adoption.
+bio: My research interests include plant breeding, end-use quality, and utilization.
 # greeting: alzahawi::shilaan()
 ---
 
