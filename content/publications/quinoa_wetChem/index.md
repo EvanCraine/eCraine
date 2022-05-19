@@ -53,6 +53,8 @@ url_slides: "CSSA20_eCraine_quinoaAA.pdf"
 url_video: "https://youtu.be/yiTazcVq2D4"
 ---
 
+The nutritional quality of quinoa produced in novel environments is assumed to be comparable to the quality of quinoa produced in Bolivia and Peru, which represents roughly 80% of global production. Thus, this study aims to provide baseline information on quinoa grown in western North America (i.e., Washington state), representing the first report that provides a baseline for the protein quality of quinoa produced in this novel production region. We also test the hypothesis that Washington grown quinoa contains adequate amounts of essential amino acids to meet daily requirements set by the World Health Organization (WHO) for all age groups. 
+
 Funding provided by USDA National Institute of Food and Agriculture (NIFA) 2016-51300-25808.
 
 This material is based upon work supported by the National Science Foundation Graduate Research Fellowship under Grant No. 1842493. As a disclaimer, any opinion, findings, and conclusions or recommendations expressed in this material are those of the authors(s) and do not necessarily reflect the views of the National Science Foundation.
