@@ -10,7 +10,7 @@ education:
       year: 2015
     
 email: craine@landinstute.org
-highlight_name: no
+highlight_name: yes
 interests:
 - Plant Breeding and Genetics
 - Nutritional Quality and Food Functionality
