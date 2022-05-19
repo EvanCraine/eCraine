@@ -5,10 +5,10 @@
 
 main:
   - name: About
-    url: '#about'
+    url: '/about'
     weight: 10
   - name: Publications
-    url: '#publications'
+    url: '/publications'
     weight: 20
     
 # - name: Posts
