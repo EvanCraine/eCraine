@@ -13,8 +13,9 @@ image:
   caption: 'Image credit: Evan Craine'
   focal_point: ""
   preview_only: false
-projects:
-- example
+# associate with projects (uncomment; - name of project in folder)
+# projects:
+# - example
 publication: In *Frontiers in Nutrition* 
 publication_short: In *Frontiers in Nutrition*
 publication_types:
@@ -40,15 +41,15 @@ tags: [quinoa]
 
 title: Seed Composition and Amino Acid Profiles for Quinoa Grown in Washington State
 
-#The url_ links can either point to local or web content. Associated local publication content, may be copied to the publication’s folder and referenced like url_code = "code.zip".
+# The url_ links can either point to local or web content. Associated local publication content, may be copied to the publication’s folder and referenced like url_code = "code.zip".
 
 url_code: "https://github.com/EvanCraine/Quinoa_SeedComp_AAs"
 url_dataset: "https://github.com/EvanCraine/Quinoa_SeedComp_AAs"
 url_pdf: "quinoa_wetChem.pdf"
-#url_poster: ""
-#url_project: ""
+# url_poster: ""
+# url_project: ""
 url_slides: "CSSA20_eCraine_quinoaAA.pdf"
-#url_source: ""
+# url_source: ""
 url_video: "https://youtu.be/yiTazcVq2D4"
 ---
 

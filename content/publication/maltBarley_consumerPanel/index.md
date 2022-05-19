@@ -33,8 +33,10 @@ image:
   focal_point: ""
   preview_only: false
 
-projects:
-- example
+# associate with projects (uncomment; - name of project in folder)
+# projects:
+# - example
+
 publication: In *Journal of Food Science* 
 publication_short: In *Journal of Food Science*
 publication_types:
@@ -65,10 +67,10 @@ title: Strategic malting barley improvement for craft brewers through consumer s
 url_code: "https://github.com/EvanCraine/MaltBarley_ConsumerPanel_HotsteepBeer"
 url_dataset: "https://github.com/EvanCraine/MaltBarley_ConsumerPanel_HotsteepBeer"
 url_pdf: "maltBarley_consumerPanel.pdf"
-url_poster: ""
-url_project: ""
+# url_poster: ""
+# url_project: ""
 url_slides: "maltBarley_consumerPanel_slides.pdf"
-url_source: ""
+# url_source: ""
 url_video: "https://youtu.be/yiTazcVq2D4"
 ---
 
