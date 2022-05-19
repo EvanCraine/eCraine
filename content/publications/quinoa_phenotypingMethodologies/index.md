@@ -1,5 +1,5 @@
 ---
-abstract: Quinoa is a crop originating in the Andes but grown more widely and with the geneticpotential for significant further expansion. Due to the phenotypic plasticity of quinoa, varieties needto be assessed across years and multiple locations.  To improve comparability among field trialsacross the globe and to facilitate collaborations, components of the trials need to be kept consistent,including the type and methods of data collected. Here, an internationally open-access frameworkfor phenotyping a wide range of quinoa features is proposed to facilitate the systematic agronomic,physiological and genetic characterization of quinoa for crop adaptation and improvement. Matureplant phenotyping is a central aspect of this paper, including detailed descriptions and the provisionof phenotyping cards to facilitate consistency in data collection.  High-throughput methods formulti-temporal phenotyping based on remote sensing technologies are described. Tools for higher-throughput post-harvest phenotyping of seeds are presented. A guideline for approaching quinoafield trials including the collection of environmental data and designing layouts with statisticalrobustness is suggested. To move towards developing resources for quinoa in line with major cerealcrops, a database was created. The Quinoa Germinate Platform will serve as a central repository ofdata for quinoa researchers globally.
+abstract: Quinoa is a crop originating in the Andes but grown more widely and with the genetic potential for significant further expansion. Due to the phenotypic plasticity of quinoa, varieties need to be assessed across years and multiple locations. To improve comparability among field trials across the globe and to facilitate collaborations, components of the trials need to be kept consistent, including the type and methods of data collected. Here, an internationally open-access framework for phenotyping a wide range of quinoa features is proposed to facilitate the systematic agronomic, physiological and genetic characterization of quinoa for crop adaptation and improvement. Mature plant phenotyping is a central aspect of this paper, including detailed descriptions and the provision of phenotyping cards to facilitate consistency in data collection. High-throughput methods for multi-temporal phenotyping based on remote sensing technologies are described. Tools for higher-throughput post-harvest phenotyping of seeds are presented. A guideline for approaching quinoa field trials including the collection of environmental data and designing layouts with statistical robustness is suggested. To move towards developing resources for quinoa in line with major cereal crops, a database was created. The Quinoa Germinate Platform will serve as a central repository of data for quinoa researchers globally
 
 author_notes:
 - C.S.S.: conceptualization, writing—original draft preparation, writing—review and editing. 
@@ -59,7 +59,7 @@ authors:
 - Kevin Murphy
 - Didier Bazile
 - Mark Tester 
-- , and on behalf of the Quinoa Phenotyping Consortium
+- and on behalf of the Quinoa Phenotyping Consortium
 
 date: "2021-08-12T00:00:00Z"
 doi: "https://doi.org/10.3390/plants10091759"
@@ -98,7 +98,7 @@ summary:  High-throughput methods formulti-temporal phenotyping based on remote 
 
 tags: [quinoa]
 
-title: Quinoa Phenotyping Methodologies: An International Consensus
+title: "Quinoa Phenotyping Methodologies: An International Consensus"
 
 # The url_ links can either point to local or web content. Associated local publication content, may be copied to the publication’s folder and referenced like url_code = "code.zip".
 
