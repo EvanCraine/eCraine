@@ -57,7 +57,7 @@ summary: The beers differed only by the genotype-dependent malt. Malting conditi
 
 tags: [barley]
 
-title: "From Ground to Glass: Evaluation of Unique Barley Varieties for Craft Malting, Craft Brewing, and Consumer Sensory""
+title: "From Ground to Glass: Evaluation of Unique Barley Varieties for Craft Malting, Craft Brewing, and Consumer Sensory"
 
 #The url_ links can either point to local or web content. Associated local publication content, may be copied to the publication’s folder and referenced like url_code = "code.zip".
 
