@@ -44,11 +44,11 @@ title: Seed Composition and Amino Acid Profiles for Quinoa Grown in Washington S
 
 url_code: "https://github.com/EvanCraine/Quinoa_SeedComp_AAs"
 url_dataset: "https://github.com/EvanCraine/Quinoa_SeedComp_AAs"
-url_pdf: "Craine-2020-Seed-composition-and-amino-acid-pro.pdf"
-url_poster: ""
-url_project: ""
+url_pdf: "quinoa_wetChem.pdf"
+#url_poster: ""
+#url_project: ""
 url_slides: "CSSA20_eCraine_quinoaAA.pdf"
-url_source: ""
+#url_source: ""
 url_video: "https://youtu.be/yiTazcVq2D4"
 ---
 
