@@ -21,7 +21,7 @@ authors:
 
 - Scott Fisk
 
-- Kevin Murphy
+- Kevin M. Murphy
 
 date: "2021-06-30T00:00:00Z"
 doi: "https://doi.org/10.1111/1750-3841.15786"
