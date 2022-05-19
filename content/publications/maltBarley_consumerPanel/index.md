@@ -60,7 +60,7 @@ summary: In general, Washington State University barley breeding lines had highe
 
 tags: [barley]
 
-title: Strategic malting barley improvement for craft brewers through consumer sensory evaluation of malt and beer
+title: Strategic Malting Barley Improvement for Craft Brewers Through Consumer Sensory Evaluation of Malt and Beer
 
 #The url_ links can either point to local or web content. Associated local publication content, may be copied to the publication’s folder and referenced like url_code = "code.zip".
 
