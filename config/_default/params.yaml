@@ -6,8 +6,8 @@
 # Appearance
 
 # themes are in themes/github/com/wowchemy/wowchemy-hugo-modules/wowchemy/v5/data/themes
-theme_day: minimal
-theme_night: minimal
+theme: craine_theme
+day_night: false
 font: 'craine_font'
 font_size: L
 
