@@ -6,9 +6,9 @@
 # Appearance
 
 # themes are in themes/github/com/wowchemy/wowchemy-hugo-modules/wowchemy/v5/data/themes
-theme: craine_theme
+theme: shilaan_theme
 day_night: false
-font: 'craine_font'
+font: 'shilaan_font'
 font_size: L
 
 # SEO
