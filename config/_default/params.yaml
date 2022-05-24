@@ -6,9 +6,9 @@
 # Appearance
 
 # themes are in themes/github/com/wowchemy/wowchemy-hugo-modules/wowchemy/v5/data/themes
-theme: craine_theme
+theme: 1950s
 day_night: false
-font: 'craine_font'
+font: 'cyberpunk'
 font_size: L
 
 # SEO
