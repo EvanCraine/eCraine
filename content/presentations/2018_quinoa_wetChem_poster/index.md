@@ -6,9 +6,9 @@ event: presented at the 2018 National Association of Plant Breeders annual meeti
 location: Guelph, ON, CA & Baltimore, MD, US
 
 # Talk start and end times.
-# date: "2018-08-09"
-#date_end: "2018-11-07"
-# all_day: true
+date: "2018-08-09"
+date_end: "2018-11-07"
+all_day: true
 
 author: admin
 
@@ -30,9 +30,11 @@ image:
 math: true
 
 categories:
+- academic
 - presentation
 - poster
 - quinoa
+
 
 tags:
 - presentation
@@ -40,5 +42,5 @@ tags:
 ---
 # Poster
 
-[A PDF of the poster is available here](/presentations/2018_quinoa_wetChem_poster/2018_WetChem_poster_ebc.pdf)
+[A PDF of the poster is available here](/presentations/2018_quinoa_wetChem_poster/2018_WetChem_poster_ebc.pdf).
 
