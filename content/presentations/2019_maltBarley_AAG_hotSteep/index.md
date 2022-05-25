@@ -1,8 +1,12 @@
 ---
 title: Tasting Terroir: Aroma and Flavor Sensory Analysis of Malted Barley for Craft Brewing and Distilling in WA
-abstract: Poster presentation on seed composition and amino acid profiles for quinoa grown in Washington State
+
+abstract: Facilitated sensory experience using malt barley hot steep
+
 abstract_short: ""
+
 event: presented at the 2019 American Association of Geographers
+
 location: Washington, D.C., US
 
 # Talk start and end times.
@@ -20,7 +24,7 @@ featured: true
 image:
   # Caption (optional)
   
-  # caption: "Image Credit: EVan Craine"
+  # caption: "Image Credit: Evan Craine"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -44,7 +48,7 @@ tags:
 ---
 # Workshop presentation
 
-This presentation was a collaboartion with Dr. Laura Lewis, Washington State University Food Systems, and the Viticulture and Enology Program at WSU. 
+This presentation was a collaboration with Dr. Laura Lewis, Washington State University Food Systems, and the Viticulture and Enology Program at WSU. 
 
 A PDF of the presentation slides are [available here](/presentations/2019_maltBarley_AAG_hotSteep/LL_Hot_Steep_AAG.pdf). A PDF featuring results from the malt barley hot steep tasting workshop are [available here](/presentations/2019_maltBarley_AAG_hotSteep/19AAG_TastingReport.pdf)
 
