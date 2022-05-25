@@ -1,5 +1,5 @@
 ---
-title: Tasting Terroir...Aroma and Flavor Sensory Analysis of Malted Barley for Craft Brewing and Distilling in WA
+title: Tasting Terroir - Aroma and Flavor Sensory Analysis of Malted Barley for Craft Brewing and Distilling in WA
 
 abstract: Facilitated sensory experience using malt barley hot steep
 
