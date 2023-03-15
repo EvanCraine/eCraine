@@ -13,8 +13,8 @@ and approved the submitted version.
 
 authors:
 - Evan B. Craine
-- Alathea Davies 2
-- Daniel Packer 3
+- Alathea Davies 
+- Daniel Packer 
 - Nathan D. Miller
 - Sandra M. Schmöckel
 - Edgar P. Spalding
